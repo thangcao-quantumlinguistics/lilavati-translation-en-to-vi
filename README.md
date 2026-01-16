@@ -1,5 +1,5 @@
-# 🕉️ Līlāvatī: English-to-Vietnamese Translation Project (1908 Edition)
-Dự án số hóa và chuyển ngữ tác phẩm toán học cổ đại **Līlāvatī** từ bản tiếng Anh năm 1908 sang tiếng Việt. Đây là bước đệm trong lộ trình nghiên cứu **Ngôn ngữ học tính toán lượng tử (QNLP)** và số hóa di sản.
+# 🕉️ Līlāvatī: English-to-Vietnamese Translation Project (1893 Edition)
+Dự án số hóa và chuyển ngữ tác phẩm toán học cổ đại **Līlāvatī** từ bản tiếng Anh năm 1893 sang tiếng Việt. Đây là bước đệm trong lộ trình nghiên cứu **Ngôn ngữ học tính toán lượng tử (QNLP)** và số hóa di sản.
 
 ## 🎓 Bối cảnh học tập (Academic Context)
 * **Người thực hiện:** Sinh viên năm 2 ngành Ngôn ngữ Anh, trường Đại học Lao động - Xã hội (ULSA).
