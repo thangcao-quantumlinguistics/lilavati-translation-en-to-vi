@@ -28,15 +28,18 @@ I propound this easy process of computation, delightful by its elegance, perspic
 **Stanza 3:**
 > [A gunja (or seed of Abrus) us reckoned equal to two-barley-corns; a calla, to three gunjas; and eight of these are a dhanara; two of which make a gadyánaka. In like manner one dhataka is composed of fourteen 
 vallas.]
+
 **Stanza 4**
 > [Half ten gunjas are called a másha, by such as are conversant with the use of the balance; a karsha contains sixteen of what are termed máshas; a pala, four karshas. A karsha of gold is named suvarna.]
+
 ### 3. Measures of Space/Length 
 **Stanza 5 - 6:**
 > [Eight breadths of a barley-corn are here a finger; four times six fingers, a cubit; four cubits, a staff; and a krosa contains two thousand of these; and a yojana, four krosas.
   So a bambu pole consists of ten cubits; and a field (or plane figure) bounded by four sides, measuring twenty bambu poles, is a nivartana.]
+
 **Stanza 7**
-> [A cube, which in length, breadth and thickness measures a cubit, is termed a solid cubit: and, in the meeting of corn and the like, a measure, which contains a solid cubit, is a khárí of Magadha as it is 
-dominated in science.]
+> [A cube, which in length, breadth and thickness measures a cubit, is termed a solid cubit: and, in the meeting of corn and the like, a measure, which contains a solid cubit, is a khárí of Magadha as it is dominated in science.]
+
 **Stanza 8**
 > [A drona us the sixteenth part of a khárí; an ádhaka is a quarter of a drona; a prastha is a fourth part of ádhaka; and a kudaba is by the ancients termed a quarter of a prastha.
   The rest of the axioms, relative to time and so forth are familiarly known.]
