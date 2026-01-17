@@ -1,7 +1,7 @@
 
 # 📖 RAW TEXT: Chapter II 
 
-> **Project:** Līlāvatī Digitalization (English 1908 Edition)
+> **Project:** Līlāvatī Digitalization (English 1893 Edition)
 > **Source Document:** Līlāvatī of Bhāskarāchārya (Trans. by Colebrooke)
 > **Digitized by:** Cao Minh Thắng
 > **Status:** 🟡 Under Transcription
