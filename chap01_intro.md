@@ -7,7 +7,7 @@
 
 ---
 
-## 🏛️ Section I: Invocation (Lời khấn nguyện)
+## 🏛️ Section I: Introduction 
 **Stanza 1:**
 > [Having bowed to the deity, whose head is like an elephant's; whose feet are adored by gods; who, when called to mind, relieves his votaries from embarrassment; and bestows happiness on his worshippers; 
 I propound this easy process of computation, delightful by its elegance, perspicuous with word concise, soft and correct, and pleasing to the learned.]
